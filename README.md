@@ -1,3 +1,3 @@
 # Not important repository
 
-This repository is not important. I merely contains profile information and nothing else
+This repository is not important. It merely contains profile information and nothing else
