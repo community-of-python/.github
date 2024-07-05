@@ -1,2 +1,3 @@
-# .github
-Community profile info repository
+# Not important repository
+
+This repository is not important. I merely contains profile information and nothing else
